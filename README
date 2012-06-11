@@ -1,0 +1,9 @@
+GPImageView : UIImageView
+Download image from URL, activity indicator, default image, cache image…
+
+GPImage (UIImage)
+some until methods
+Curve image, crop image, fix orientation, alpha, rotate image etc.
+
+XMLreader
+convert xml to nsdictionary 
